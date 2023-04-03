@@ -56,7 +56,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@behlole&compact=True"/>
 </a>
 <br>
-<img src="https://wakatime.com/share/@behlole/df3c2318-1c2d-455d-8dd2-71af0b3cbaae.svg"/>
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
