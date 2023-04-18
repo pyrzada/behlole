@@ -1,5 +1,4 @@
-  
-  # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Open source projects<br><br>🌱 I’m currently learning Time Management and Leadership skills<br><br>👯 I’m looking to collaborate on Opensource projects and Tech articles<br><br>💬 Talk to me about Freelancing Opportunities, Javascript, Typescript, NodeJS
 
 
@@ -12,11 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=behlole&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=behlole&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=behlole&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## WAKATime Stats
-<a href="https://github.com/behlole">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@behlole&compact=True"/>
-</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=behlole&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
