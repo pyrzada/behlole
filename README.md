@@ -15,7 +15,7 @@
 
 # WAKATime Stats
 <a href="https://github.com/behlole">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@behlole&compact=True"/>
+<img align="center" src="https://wakatime.com/share/@behlole/178c8b07-3dc1-460c-80d3-152ae804158b.svg"/>
 </a>
 
 # 📊 GitHub Stats:
