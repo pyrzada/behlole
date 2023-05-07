@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behlole)
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=linkedin&logoColor=white)](https://behlole.github.io)
+[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://behlole.github.io)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=behlole&icon=9&color=1)](https://visitcount.itsvg.in)
