@@ -17,7 +17,12 @@
 # WAKATime Stats
 <a href="https://github.com/behlole">
 <img align="center" src="https://wakatime.com/share/@behlole/d550d5ac-db15-4e8a-ba13-e7f94827f5da.svg"/>
-</a>
+</a
+
+# 💻 Coding Activity
+<a href="https://github.com/behlole">
+<img align="center" src="https://wakatime.com/share/@behlole/4bf1930d-14d2-4769-ba04-83bdb6a559bb.svg"/>
+</a
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=behlole&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
