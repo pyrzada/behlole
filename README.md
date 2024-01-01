@@ -21,7 +21,7 @@
 
 # 💻 Coding Activity
 <a href="https://github.com/behlole">
-<img align="center" src="https://wakatime.com/share/@behlole/4bf1930d-14d2-4769-ba04-83bdb6a559bb.svg"/>
+<img align="center" style="width:100%" src="https://wakatime.com/share/@behlole/4bf1930d-14d2-4769-ba04-83bdb6a559bb.svg"/>
 </a><br>
 
 # 📊 GitHub Stats:
