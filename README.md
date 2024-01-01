@@ -17,7 +17,7 @@
 # WAKATime Stats
 <a href="https://github.com/behlole">
 <img align="center" src="https://wakatime.com/share/@behlole/d550d5ac-db15-4e8a-ba13-e7f94827f5da.svg"/>
-</a
+</a>
 
 # 💻 Coding Activity
 <a href="https://github.com/behlole">
